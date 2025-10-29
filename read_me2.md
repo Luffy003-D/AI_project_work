@@ -6,6 +6,20 @@ We participate in the [MABe Challenge on Kaggle](https://www.kaggle.com/competit
 Our goal is to design and implement machine learning models that can classify over 30 behaviors in pairs and groups of mice, based on large-scale annotated video datasets.
 
 ---
+
+## 🧩 Project Background
+In neuroscience research, precise quantification of mouse social behavior is crucial for understanding the brain’s social mechanisms and the pathology of psychiatric diseases.  
+Traditionally, this work has relied on manual observation, which is **subjective, time-consuming, and difficult to reproduce**.  
+
+Recent advances in computer vision allow researchers to estimate animal poses and track motion trajectories, but **automatically recognizing complex social behaviors from these data remains challenging**. The main difficulties include:  
+- The **spatiotemporal complexity** of multi-agent interactions  
+- The need for **generalization across different experimental environments**  
+- The difficulty of distinguishing **subtle behavioral differences**  
+
+The [MABe Challenge](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) provides a large-scale dataset with over 400 hours of annotated video from 20+ labs, covering 30+ behaviors. This competition encourages the development of robust machine learning models that can achieve human-level accuracy in behavior recognition, with the potential to accelerate neuroscience, ethology, and computational biology research.  
+
+Our project aims to address these challenges by integrating **kinematic features, spatial relationships, and temporal dynamics** into a unified computational framework for mouse social behavior recognition.
+
 ## 👥 Team Members
 
 | Name         | Major              | Contact                     |
