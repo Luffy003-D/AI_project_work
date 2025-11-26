@@ -247,7 +247,7 @@ The successful implementation of this project not only provides practical techni
 ## Appendices
 
 ### Code Repository
-- Project GitHub Address: 
+- Project GitHub Address: https://github.com/Luffy003-D/AI_project_work/tree/master
 - B-SOID Original Project: https://github.com/YttriLab/B-SOID
 
 ### Data Availability Statement
