@@ -1,6 +1,6 @@
 
 cmap = hsv(length(unique(grp)));
-filepathOutResults = uigetdir;
+filepathOutResults = uigetdir; 
 figure; hold on;
 for ii = 1:length(unique(grp))
     subplot(length(unique(grp)),1,ii);
