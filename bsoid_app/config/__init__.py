@@ -1,0 +1,1 @@
+from bsoid_app.config.global_config import *
