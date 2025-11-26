@@ -1,7 +1,7 @@
 name: bsoid_v2_1
 channels:
   - anaconda
-  - conda-forge
+  - conda-forge  
   - defaults
 dependencies:
   - ca-certificates=2020.11.8=h5b45459_0
