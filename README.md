@@ -1,4 +1,4 @@
-# 🐭 ITE 351 Group 2: Decoding the Secret Language of Mice
+# 🐭 ITE 351 Group 26: Decoding the Secret Language of Mice
 
 > **Project:** MABe Challenge - Social Action Recognition
 > **Course:** ITE 351: AI & Applications (2025)
